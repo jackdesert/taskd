@@ -1,7 +1,9 @@
 .TH taskd 5 2014-01-15 "${PACKAGE_STRING}" "User Manuals"
 
 .SH NAME
-taskdrc \- Configuration file for the taskd(1) server
+taskdrc \- Configuration tool for the taskd(1) server
+You may either use this tool to set field values, or you may edit the
+config file directly ($TASKDDATA/config).
 
 .SH CONFIGURATION VARIABLES
 
